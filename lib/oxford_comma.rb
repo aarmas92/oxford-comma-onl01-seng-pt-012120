@@ -10,8 +10,8 @@ def oxford_comma array
         else
             string.concat(", and ")
         end
-        string.concat(last)#this line adds the last element of the array to the string
-        puts string #this line prints the string from the array
+        string.concat(last)
+        puts string 
     end
 end
 
