@@ -16,4 +16,4 @@ def oxford_comma array
 end
 
 items = ["kiwi","durian","start fruit","mangos","dragon fruit"]
-oxford_comma(ite)
+oxford_comma(items)
